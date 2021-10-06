@@ -8,3 +8,9 @@ ro.sys.fw.dex2oat_thread_count=8
 # LMKD
 ro.config.low_ram=false
 ro.lmk.log_stats=true
+
+# Havoc
+ro.havoc.device.name=Realme 5 Series
+ro.havoc.group.url=https://t.me/havoc_r5x
+ro.havoc.maintainer=Utkarsh Kanojiya
+ro.havoc.maintainer.username=iamlordutkarsh
