@@ -1,7 +1,7 @@
 [
     {
         "repository": "android_vendor_realme_r5x",
-        "target_path": "vendor/realme/r5x",
+        "target_path": "vendor/realme/r5x"
     },
     {
         "repository": "android_kernel_realme_r5x",
